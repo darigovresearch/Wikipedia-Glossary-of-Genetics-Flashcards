@@ -1,5 +1,3 @@
-
-<dl class="glossary">
 <dt class="glossary" id="3&#39;-end" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Directionality_(molecular_biology)" title="Directionality (molecular biology)">3'-end</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also rendered as <b>three-prime end</b>.</span></p>
 <dd class="glossary">The end of a single strand of <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> or <a href="#rNA"><span title="See entry on this page at § RNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">RNA</span></a> at which the chain of <a href="#nucleotide"><span title="See entry on this page at § nucleotide" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleotides</span></a> terminates at the third carbon atom in the <a href="/wiki/Furanose" title="Furanose">furanose</a> ring of <a href="#deoxyribose"><span title="See entry on this page at § deoxyribose" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deoxyribose</span></a> or <a href="#ribose"><span title="See entry on this page at § ribose" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ribose</span></a> (i.e. the terminus at which the 3' carbon is not attached to another nucleotide via a <a href="#phosphodiester_bond"><span title="See entry on this page at § phosphodiester bond" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">phosphodiester bond</span></a>; <i>in vivo</i>, the 3' carbon is often still bonded to a <a href="/wiki/Hydroxyl" class="mw-redirect" title="Hydroxyl">hydroxyl</a> group). By convention, sequences and structures positioned nearer to the 3'-end relative to others are referred to as <a href="#downstream"><span title="See entry on this page at § downstream" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">downstream</span></a>. Contrast <i><a href="#5&#39;-end"><span title="See entry on this page at § 5&#39;-end" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">5'-end</span></a></i>.</dd>
@@ -12,8 +10,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also rendered as <b>five-prime end</b>.</span></p>
 <dd class="glossary">The end of a single strand of <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> or <a href="#rNA"><span title="See entry on this page at § RNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">RNA</span></a> at which the chain of <a href="#nucleotide"><span title="See entry on this page at § nucleotide" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleotides</span></a> terminates at the fifth carbon atom in the <a href="/wiki/Furanose" title="Furanose">furanose</a> ring of <a href="#deoxyribose"><span title="See entry on this page at § deoxyribose" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deoxyribose</span></a> or <a href="#ribose"><span title="See entry on this page at § ribose" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ribose</span></a> (i.e. the terminus at which the 5' carbon is not attached to another nucleotide via a <a href="#phosphodiester_bond"><span title="See entry on this page at § phosphodiester bond" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">phosphodiester bond</span></a>; <i>in vivo</i>, the 5' carbon is often still bonded to a <a href="/wiki/Phosphate" title="Phosphate">phosphate</a> group). By convention, sequences and structures positioned nearer to the 5'-end relative to others are referred to as <a href="#upstream"><span title="See entry on this page at § upstream" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">upstream</span></a>. Contrast <i><a href="#3&#39;-end"><span title="See entry on this page at § 3&#39;-end" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">3'-end</span></a></i>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="a-dna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/A-DNA" title="A-DNA">A-DNA</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -68,8 +64,6 @@
 <dt class="glossary" id="autosome" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Autosome" title="Autosome">autosome</a></dfn></dt>
 <dd class="glossary">Any <a href="#chromosome"><span title="See entry on this page at § chromosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chromosome</span></a> that is not an <a href="#allosome"><span title="See entry on this page at § allosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">allosome</span></a> and hence is not involved in the determination of the <a href="/wiki/Sex" title="Sex">sex</a> of an organism. Unlike the sex chromosomes, the autosomes in a <a href="#diploid"><span title="See entry on this page at § diploid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">diploid</span></a> cell exist in pairs, with the members of each pair having the same structure, morphology, and genetic <a href="#locus"><span title="See entry on this page at § locus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">loci</span></a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="b-dna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/B-DNA" class="mw-redirect" title="B-DNA">B-DNA</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -92,8 +86,6 @@
 <dt class="glossary" id="blunt_end" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Sticky_and_blunt_ends" title="Sticky and blunt ends">blunt end</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="c-value" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/C-value" title="C-value">C-value</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -239,8 +231,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Abbreviated in shorthand with the letter <i><span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">C</span></i>.</span></p>
 <dd class="glossary">One of the four main <a href="#nucleobase"><span title="See entry on this page at § nucleobase" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleobases</span></a> present in <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> and <a href="#rNA"><span title="See entry on this page at § RNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">RNA</span></a>. Cytosine forms a <a href="#base_pair"><span title="See entry on this page at § base pair" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">base pair</span></a> with <a href="#guanine"><span title="See entry on this page at § guanine" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">guanine</span></a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="degeneracy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Codon_degeneracy" title="Codon degeneracy">degeneracy</a></dfn></dt>
 <dd class="glossary">The redundancy of the <a href="#genetic_code"><span title="See entry on this page at § genetic code" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genetic code</span></a>, exhibited as the multiplicity of different <a href="#codon"><span title="See entry on this page at § codon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">codons</span></a> that specify the same <a href="#amino_acid"><span title="See entry on this page at § amino acid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">amino acid</span></a>. For example, in the <a href="#standard_genetic_code"><span title="See entry on this page at § standard genetic code" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">standard genetic code</span></a>, the amino acid <a href="/wiki/Serine" title="Serine">serine</a> is specified by six unique codons (<span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">UCA</span>, <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">UCG</span>, <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">UCC</span>, <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">UCU</span>, <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">AGU</span>, and <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">AGC</span>). Codon degeneracy accounts for the existence of <a href="#synonymous_mutation"><span title="See entry on this page at § synonymous mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">synonymous mutations</span></a>.</dd>
 
@@ -307,8 +297,6 @@
 <dt class="glossary" id="duplication" style="margin-top: 0.4em;"><dfn class="glossary">duplication</dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="ecological_genetics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ecological_genetics" title="Ecological genetics">ecological genetics</a></dfn></dt>
 <dd class="glossary">The study of <a href="#genetics"><span title="See entry on this page at § genetics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genetics</span></a> as it pertains to the <a href="/wiki/Ecology" title="Ecology">ecology</a> and <a href="/wiki/Fitness_(biology)" title="Fitness (biology)">fitness</a> of natural populations of living organisms.</dd>
 
@@ -363,8 +351,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>extranuclear DNA</b> or <b>cytoplasmic DNA</b>.</span></p>
 <dd class="glossary">Any <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> that is not found in <a href="#chromosome"><span title="See entry on this page at § chromosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chromosomes</span></a> or in the <a href="#nucleus"><span title="See entry on this page at § nucleus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleus</span></a> of a cell and hence is not <a href="#genomic_DNA"><span title="See entry on this page at § genomic DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genomic DNA</span></a>. This may include the DNA contained in <a href="#plasmid"><span title="See entry on this page at § plasmid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">plasmids</span></a> or <a href="/wiki/Organelle" title="Organelle">organelles</a> such as <a href="#mtDNA"><span title="See entry on this page at § mtDNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mitochondria</span></a> or <a href="/wiki/Chloroplast" title="Chloroplast">chloroplasts</a>, or, in the broadest sense, DNA introduced by <a href="/wiki/Virus" title="Virus">viral infection</a>. Extrachromosomal DNA usually shows significant structural differences from nuclear DNA in the same organism.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="facultative_expression" style="margin-top: 0.4em;"><dfn class="glossary">facultative expression</dfn></dt>
 <dd class="glossary">The <a href="#transcription"><span title="See entry on this page at § transcription" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">transcription</span></a> of a <a href="#gene"><span title="See entry on this page at § gene" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gene</span></a> only as needed, as opposed to <a href="#constitutive_expression"><span title="See entry on this page at § constitutive expression" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">constitutive expression</span></a>, in which a gene is transcribed continuously. A gene that is transcribed as needed is called a <i>facultative gene</i>.</dd>
 
@@ -384,8 +370,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Formerly known by the abbreviation <b>MGED</b>.</span></p>
 <dd class="glossary">An organization that works with others "to develop standards for biological research data quality, annotation and exchange" as well as software tools that facilitate their use.<sup id="cite_ref-urlFGED_Homepage_5-0" class="reference"><a href="#cite_note-urlFGED_Homepage-5">&#91;5&#93;</a></sup></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="g_banding" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/G_banding" title="G banding">G banding</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>Giemsa banding</b> or <b>G-banding</b>.</span></p>
 <dd class="glossary">A technique used in <a href="#cytogenetics"><span title="See entry on this page at § cytogenetics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cytogenetics</span></a> to produce a visible <a href="#karyotype"><span title="See entry on this page at § karyotype" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">karyotype</span></a> by <a href="/wiki/Staining_(biology)" class="mw-redirect" title="Staining (biology)">staining</a> the condensed chromosomes with <a href="/wiki/Giemsa_stain" title="Giemsa stain">Giemsa stain</a>. The staining produces consistent and identifiable patterns of dark and light "bands" in regions of <a href="#chromatin"><span title="See entry on this page at § chromatin" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chromatin</span></a>, which allows specific chromosomes to be easily distinguished.</dd>
@@ -543,8 +527,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also abbreviated <b>GC-content</b>.</span></p>
 <dd class="glossary">The proportion of <a href="#nitrogenous_base"><span title="See entry on this page at § nitrogenous base" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nitrogenous bases</span></a> in a <a href="#nucleic_acid"><span title="See entry on this page at § nucleic acid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleic acid</span></a> that are either <a href="#guanine"><span title="See entry on this page at § guanine" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">guanine</span></a> (<span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">G</span>) or <a href="#cytosine"><span title="See entry on this page at § cytosine" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cytosine</span></a> (<span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">C</span>), typically expressed as a percentage. DNA and RNA molecules with higher GC-content are generally more <a href="/wiki/Thermostability" title="Thermostability">thermostable</a> than those with lower GC-content due to molecular interactions that occur during base stacking.<sup id="cite_ref-Yakovchuk2006_7-0" class="reference"><a href="#cite_note-Yakovchuk2006-7">&#91;7&#93;</a></sup></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="haplodiploidy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Haplodiploidy" title="Haplodiploidy">haplodiploidy</a></dfn></dt>
 <dd class="glossary">A type of <a href="/wiki/Sex-determination_system" title="Sex-determination system">sex-determination system</a> in which sex is determined by the number of sets of <a href="#chromosome"><span title="See entry on this page at § chromosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chromosomes</span></a> an individual possesses: offspring which develop from fertilized eggs are females and <a href="#diploid"><span title="See entry on this page at § diploid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">diploid</span></a>, while offspring which develop from unfertilized eggs are males and <a href="#haploid"><span title="See entry on this page at § haploid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">haploid</span></a>, with half as many chromosomes as the females. Haplodiploidy is common to all members of the insect order <a href="/wiki/Hymenoptera" title="Hymenoptera">Hymenoptera</a> and several other insect taxa.</dd>
 
@@ -617,8 +599,6 @@
 <span id="hybridization_probe"></span><dt class="glossary" id="hybridization_probe" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hybridization_probe" title="Hybridization probe">hybridization probe</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="idiochromosome" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Allosome" class="mw-redirect" title="Allosome">idiochromosome</a></dfn></dt>
 <dd class="glossary">See <i><a href="#allosome"><span title="See entry on this page at § allosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">allosome</span></a></i>.</dd>
 
@@ -668,16 +648,12 @@
 <dt class="glossary" id="isochromosome" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Isochromosome" title="Isochromosome">isochromosome</a></dfn></dt>
 <dd class="glossary">A type of <a href="/wiki/Chromosomal_abnormality" class="mw-redirect" title="Chromosomal abnormality">abnormal</a> <a href="#chromosome"><span title="See entry on this page at § chromosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chromosome</span></a> in which the arms of the chromosome are mirror images of each other. Isochromosome formation is equivalent to simultaneous <a href="#duplication"><span title="See entry on this page at § duplication" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">duplication</span></a> and <a href="#deletion"><span title="See entry on this page at § deletion" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deletion</span></a> events such that two copies of either the <a href="#long_arm"><span title="See entry on this page at § long arm" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">long arm</span></a> or the <a href="#short_arm"><span title="See entry on this page at § short arm" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">short arm</span></a> comprise the resulting chromosome.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="junctional_diversity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Junctional_diversity" title="Junctional diversity">junctional diversity</a></dfn></dt>
 <dd class="glossary"></dd>
 
 <dt class="glossary" id="junk_dna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Junk_DNA" class="mw-redirect" title="Junk DNA">junk DNA</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="ka/ks_ratio" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ka/Ks_ratio" title="Ka/Ks ratio">K<sub>a</sub>/K<sub>s</sub> ratio</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -693,8 +669,6 @@
 <dt class="glossary" id="knockout" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gene_knockout" title="Gene knockout">knockout</a></dfn></dt>
 <dd class="glossary">A <a href="#genetic_engineering"><span title="See entry on this page at § genetic engineering" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genetic engineering</span></a> technique in which an organism is modified to carry <a href="#gene"><span title="See entry on this page at § gene" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genes</span></a> that have been made inoperative ("knocked out"), such that their <a href="#gene_expression"><span title="See entry on this page at § gene expression" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">expression</span></a> is disrupted at some point in the pathway that produces their <a href="#gene_product"><span title="See entry on this page at § gene product" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gene products</span></a> and the organism is deprived of their normal effects. Contrast <i><a href="#knockin"><span title="See entry on this page at § knockin" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">knockin</span></a></i>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="lagging_strand" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lagging_strand" class="mw-redirect" title="Lagging strand">lagging strand</a></dfn></dt>
 <dd class="glossary">On the lagging strand template, a primase "reads" the template DNA and initiates synthesis of a short complementary RNA primer. A DNA polymerase extends the primed segments, forming Okazaki fragments. The RNA primers are then removed and replaced with DNA, and the fragments of DNA are joined together by DNA ligase.</dd>
 
@@ -730,8 +704,6 @@
 <dt class="glossary" id="lyonization" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lyonization" class="mw-redirect" title="Lyonization">lyonization</a></dfn></dt>
 <dd class="glossary">See <i><a href="#x-inactivation"><span title="See entry on this page at § X-inactivation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">X-inactivation</span></a></i>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="major_groove" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Major_groove" class="mw-redirect" title="Major groove">major groove</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -829,8 +801,6 @@
 <dt class="glossary" id="mutation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mutation" title="Mutation">mutation</a></dfn></dt>
 <dd class="glossary">Any permanent change in the <a href="#nucleotide"><span title="See entry on this page at § nucleotide" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleotide</span></a> sequence of a strand of <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> or <a href="#rNA"><span title="See entry on this page at § RNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">RNA</span></a>. Mutations play a role in both normal and abnormal biological processes, including <a href="#evolution"><span title="See entry on this page at § evolution" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">evolution</span></a>. They can result from replication errors, molecular damage, or manipulations by <a href="#mobile_genetic_element"><span title="See entry on this page at § mobile genetic element" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mobile genetic elements</span></a>. <a href="#dNA_repair"><span title="See entry on this page at § DNA repair" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Repair</span></a> mechanisms have evolved in many organisms to correct them.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="neutral_mutation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Neutral_mutation" title="Neutral mutation">neutral mutation</a></dfn></dt>
 <dd class="glossary">1.&#160;&#160;Any <a href="#mutation"><span title="See entry on this page at § mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mutation</span></a> of a <a href="#nucleic_acid_sequence"><span title="See entry on this page at § nucleic acid sequence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleic acid sequence</span></a> that is neither beneficial nor detrimental to the ability of an organism to survive and reproduce.</dd>
 <dd class="glossary">2.&#160;&#160;Any mutation in which <a href="/wiki/Natural_selection" title="Natural selection">natural selection</a> does not affect the spread of the mutation within a population.</dd>
@@ -904,8 +874,6 @@
 <dt class="glossary" id="nullizygous" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zygosity#nullizygous" title="Zygosity">nullizygous</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="okazaki_fragments" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Okazaki_fragments" title="Okazaki fragments">Okazaki fragments</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -935,8 +903,6 @@
 <dt class="glossary" id="overexpression" style="margin-top: 0.4em;"><dfn class="glossary">overexpression</dfn></dt>
 <dd class="glossary">An abnormally high level of <a href="#gene_expression"><span title="See entry on this page at § gene expression" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gene expression</span></a> which results in an excessive number of copies of one or more <a href="#gene_product"><span title="See entry on this page at § gene product" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gene products</span></a>. Overexpression produces a pronounced gene-related <a href="#phenotype"><span title="See entry on this page at § phenotype" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">phenotype</span></a>.<sup id="cite_ref-Overexpression_-_Oxford_12-0" class="reference"><a href="#cite_note-Overexpression_-_Oxford-12">&#91;12&#93;</a></sup><sup id="cite_ref-Overexpress_-_NCI_13-0" class="reference"><a href="#cite_note-Overexpress_-_NCI-13">&#91;13&#93;</a></sup></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="p53" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/P53" title="P53">p53</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -1085,8 +1051,6 @@
 <dt class="glossary" id="pyrimidine_dimer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pyrimidine_dimer" title="Pyrimidine dimer">pyrimidine dimer</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="quantitative_genetics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantitative_genetics" title="Quantitative genetics">quantitative genetics</a></dfn></dt>
 <dd class="glossary">A branch of <a href="#population_genetics"><span title="See entry on this page at § population genetics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">population genetics</span></a> which studies <a href="#phenotype"><span title="See entry on this page at § phenotype" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">phenotypes</span></a> that vary continuously (such as height or mass) as opposed to those that fall into discretely identifiable categories (such as eye color or the presence or absence of a particular <a href="#trait"><span title="See entry on this page at § trait" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">trait</span></a>). Quantitative genetics employs statistical methods and concepts to link continuously distributed phenotypic values to specific <a href="#genotype"><span title="See entry on this page at § genotype" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genotypes</span></a> and <a href="#gene_product"><span title="See entry on this page at § gene product" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gene products</span></a>.</dd>
 
@@ -1101,8 +1065,6 @@
 <span id="QTL"></span><dt class="glossary" id="quantitative_trait_locus_(qtl)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantitative_trait_locus" title="Quantitative trait locus">quantitative trait locus</a> (QTL)</dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="reading_frame" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Reading_frame" title="Reading frame">reading frame</a></dfn></dt>
 <dd class="glossary">A way of dividing the <a href="#nucleic_acid_sequence"><span title="See entry on this page at § nucleic acid sequence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleotide sequence</span></a> in a <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> or <a href="#rNA"><span title="See entry on this page at § RNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">RNA</span></a> molecule into a set of consecutive, non-overlapping triplets, which is "read" by <a href="#protein"><span title="See entry on this page at § protein" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">proteins</span></a> during <a href="#transcription"><span title="See entry on this page at § transcription" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">transcription</span></a> and <a href="#replication"><span title="See entry on this page at § replication" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">replication</span></a>. In coding DNA, each triplet is referred to as a <a href="#codon"><span title="See entry on this page at § codon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">codon</span></a> that corresponds to a particular <a href="#amino_acid"><span title="See entry on this page at § amino acid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">amino acid</span></a> during <a href="#translation"><span title="See entry on this page at § translation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">translation</span></a>. In general, only one reading frame (the so-called <a href="#open_reading_frame"><span title="See entry on this page at § open reading frame" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">open reading frame</span></a>) in a given section of a nucleic acid can be used to make functional proteins, but there are exceptions in a few organisms. A <a href="#frameshift_mutation"><span title="See entry on this page at § frameshift mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">frameshift mutation</span></a> results in a shift in the normal reading frame and affects all downstream codons.</dd>
 
@@ -1176,8 +1138,6 @@
 <span id="rNA_splicing"></span><dt class="glossary" id="rna_splicing" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/RNA_splicing" title="RNA splicing">RNA splicing</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="sanger_sequencing" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Sanger_sequencing" title="Sanger sequencing">Sanger sequencing</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -1297,8 +1257,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called a <b>synonymous substitution</b>.</span></p>
 <dd class="glossary">A type of <a href="#mutation"><span title="See entry on this page at § mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mutation</span></a> in which the <a href="#substitution"><span title="See entry on this page at § substitution" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">substitution</span></a> of one <a href="#nucleotide"><span title="See entry on this page at § nucleotide" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleotide</span></a> base for another results, after <a href="#transcription"><span title="See entry on this page at § transcription" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">transcription</span></a> and <a href="#translation"><span title="See entry on this page at § translation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">translation</span></a>, in an amino acid sequence which is identical to the original unmutated sequence. This is possible because of the <a href="#codon_degeneracy"><span title="See entry on this page at § codon degeneracy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">degeneracy</span></a> of the <a href="#genetic_code"><span title="See entry on this page at § genetic code" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">genetic code</span></a>, which allows different <a href="#codon"><span title="See entry on this page at § codon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">codons</span></a> to code for the same amino acid. Though synonymous mutations are often considered <a href="#silent_mutation"><span title="See entry on this page at § silent mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">silent</span></a>, this is not always the case; a synonymous mutation may affect the efficiency or accuracy of <a href="#transcription"><span title="See entry on this page at § transcription" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">transcription</span></a>, <a href="#rNA_splicing"><span title="See entry on this page at § RNA splicing" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">splicing</span></a>, <a href="#translation"><span title="See entry on this page at § translation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">translation</span></a>, or any other process by which genes are <a href="#gene_expression"><span title="See entry on this page at § gene expression" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">expressed</span></a>, rendering the mutation non-silent. Contrast <i><a href="#nonsynonymous_mutation"><span title="See entry on this page at § nonsynonymous mutation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nonsynonymous mutation</span></a></i>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="tandem_repeat" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tandem_repeat" title="Tandem repeat">tandem repeat</a></dfn></dt>
 <dd class="glossary">A pattern within a <a href="#nucleic_acid_sequence"><span title="See entry on this page at § nucleic acid sequence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleic acid sequence</span></a> in which one or more <a href="#nucleobase"><span title="See entry on this page at § nucleobase" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleobases</span></a> are repeated and the repetitions are directly adjacent (i.e. tandem) to each other. An example is <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">ATGACATGACATGAC</span>, in which the sequence <span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">ATGAC</span> is repeated three times.</dd>
 
@@ -1379,8 +1337,6 @@
 <dt class="glossary" id="true-breeding" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/True-breeding" class="mw-redirect" title="True-breeding">true-breeding</a></dfn></dt>
 <dd class="glossary">Showing consistent, predictable, and replicable traits in the progeny that result from the mating of any two <a href="#purebred"><span title="See entry on this page at § purebred" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">purebred</span></a> parents belonging to the same <a href="/wiki/Breed" title="Breed">breed</a> or variety (and not the traits of other breeds or varieties that may previously have been crossed into the lineage). To "breed true" means that parents of the same lineage will produce offspring that share all of the parents' traits.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="unequal_crossing-over" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Unequal_crossing-over" class="mw-redirect" title="Unequal crossing-over">unequal crossing-over</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -1395,13 +1351,9 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Abbreviated in shorthand with the letter <i><span style="font-family:courier;font-size:big;color:black;background-color:transparent;;">U</span></i>.</span></p>
 <dd class="glossary">One of the four <a href="#nucleobase"><span title="See entry on this page at § nucleobase" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleobases</span></a> present in <a href="#rNA"><span title="See entry on this page at § RNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">RNA</span></a> molecules. Uracil forms a <a href="#base_pair"><span title="See entry on this page at § base pair" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">base pair</span></a> with <a href="#adenine"><span title="See entry on this page at § adenine" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">adenine</span></a>. In <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a>, uracil is not used at all, and is instead replaced with <a href="#thymine"><span title="See entry on this page at § thymine" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">thymine</span></a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="vector" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vector_(molecular_biology)" title="Vector (molecular biology)">vector</a></dfn></dt>
 <dd class="glossary">Any <a href="#dNA"><span title="See entry on this page at § DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">DNA</span></a> molecule used as a vehicle to artificially transport foreign genetic material into another cell, where it can be <a href="#dNA_replication"><span title="See entry on this page at § DNA replication" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">replicated</span></a> and/or <a href="#gene_expression"><span title="See entry on this page at § gene expression" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">expressed</span></a>. Vectors are typically engineered <a href="#recombinant_DNA"><span title="See entry on this page at § recombinant DNA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">recombinant DNA</span></a> sequences consisting of an <a href="#insert"><span title="See entry on this page at § insert" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">insert</span></a> (often a <a href="#transgene"><span title="See entry on this page at § transgene" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">transgene</span></a>) and a longer "backbone" sequence containing an <a href="#origin_of_replication"><span title="See entry on this page at § origin of replication" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">origin of replication</span></a>, a <a href="#multiple_cloning_site"><span title="See entry on this page at § multiple cloning site" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">multiple cloning site</span></a>, and a <a href="#selectable_marker"><span title="See entry on this page at § selectable marker" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">selectable marker</span></a>. Vectors are widely used in molecular biology laboratories to isolate, <a href="#molecular_cloning"><span title="See entry on this page at § molecular cloning" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">clone</span></a>, or <a href="#expression_vector"><span title="See entry on this page at § expression vector" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">express</span></a> the insert in the target cell.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="western_blotting" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Western_blotting" class="mw-redirect" title="Western blotting">Western blotting</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -1412,8 +1364,6 @@
 <dt class="glossary" id="wobble_base_pairing" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wobble_base_pair" title="Wobble base pair">wobble base pairing</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="x_chromosome" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/X_chromosome" title="X chromosome">X chromosome</a></dfn></dt>
 <dd class="glossary">One of two <a href="#allosome"><span title="See entry on this page at § allosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sex chromosomes</span></a> present in organisms which use the <a href="/wiki/XY_sex-determination_system" title="XY sex-determination system">XY sex-determination system</a> (and the only sex chromosome in the <a href="/wiki/X0_sex-determination_system" title="X0 sex-determination system">X0 system</a>). The X chromosome is found in both males and females and typically contains much more <a href="#gene"><span title="See entry on this page at § gene" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gene</span></a> content than its counterpart, the <a href="#y_chromosome"><span title="See entry on this page at § Y chromosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Y chromosome</span></a>.</dd>
 
@@ -1423,16 +1373,12 @@
 <dt class="glossary" id="x-linked_trait" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/X-linked_trait" class="mw-redirect" title="X-linked trait">X-linked trait</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="y_chromosome" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Y_chromosome" title="Y chromosome">Y chromosome</a></dfn></dt>
 <dd class="glossary">One of two <a href="#allosome"><span title="See entry on this page at § allosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sex chromosomes</span></a> present in organisms which use the <a href="/wiki/XY_sex-determination_system" title="XY sex-determination system">XY sex-determination system</a>. The Y chromosome is found only in males and is typically much smaller than its counterpart, the <a href="#x_chromosome"><span title="See entry on this page at § X chromosome" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">X chromosome</span></a>.</dd>
 
 <span id="YAC"></span><dt class="glossary" id="yeast_artificial_chromosome_(yac)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yeast_artificial_chromosome" title="Yeast artificial chromosome">yeast artificial chromosome</a> (YAC)</dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="z-dna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Z-DNA" title="Z-DNA">Z-DNA</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -1441,5 +1387,3 @@
 
 <dt class="glossary" id="zygote" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zygote" title="Zygote">zygote</a></dfn></dt>
 <dd class="glossary">A type of <a href="/wiki/Eukaryote" title="Eukaryote">eukaryotic</a> cell formed as the direct result of a <a href="/wiki/Fertilization" class="mw-redirect" title="Fertilization">fertilization</a> event between two <a href="#gamete"><span title="See entry on this page at § gamete" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gametes</span></a>. In multicellular organisms, the zygote is the earliest developmental stage.</dd>
-
-</dl>
